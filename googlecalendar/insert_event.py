@@ -1,3 +1,4 @@
+#権限付与し直すにはtoken.pickleを一旦無効化する。10行目でどんな権限を付与するか変更可能。
 from __future__ import print_function
 import pickle
 import os.path
